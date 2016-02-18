@@ -7,3 +7,5 @@
 3. Demographic and profile data at the neighborhood level is downloaded from the Open Data Portal NYC at https://data.cityofnewyork.us/City-Government/Demographics-and-profiles-at-the-Neighborhood-Tabu/hyuz-tij8
 
 4. An interactive map on ESRI's customer tapestry segmentation: http://arcg.is/1PGND5y
+5. A heatmap of Twitter feeds with hashtag #coworking, hosted on CartoDB is here:
+https://ceceliasong.cartodb.com/viz/7d326a42-d5a5-11e5-8699-0ecfd53eb7d3/public_map
